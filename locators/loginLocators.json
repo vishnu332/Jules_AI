@@ -1,0 +1,9 @@
+{
+    "emailInput": "[name='email']",
+    "passwordInput": "[name='password']",
+    "signInButon": "[data-test-id='signin']",
+    "shortPasswordError": "//div[text()='Password too short']",
+    "alertMessage": "[role='alert']",
+    "headerMenu": "[data-test-id='header-menu']",
+    "alertMessageClose": ".MuiCollapse-root button"
+}
